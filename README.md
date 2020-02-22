@@ -1,2 +1,2 @@
 # VBA-EmailSheetData
-Send the data from excel in sheets through E-mail as text incorporated in the email body or as a PDF file
+Send the data from the sheet in excel through E-mail as text incorporated in the email body or as a PDF file
